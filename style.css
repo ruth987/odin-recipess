@@ -1,0 +1,48 @@
+/* style.css */
+*{
+    background-color: rgb(34, 33, 33);
+}
+h1{
+    font-size: 70px;
+    font-family: sans-serif;
+    text-align: center;
+    color:black;
+    background-color:rgb(224, 224, 18);
+
+}
+.food{
+    background-color:rgb(224, 224, 18);
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+    padding: 14px 28px;
+    width: 200px;
+    cursor: pointer;
+    border: lightyellow;
+    overflow: hidden;
+}
+img{
+    border: 2px solid yellow;
+    border-radius: 8px;
+    width: 700px;
+    height: auto;
+    text-align: left;
+    float: left;
+  }
+h3{
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: 100;
+    background-color: yellow;
+    border-radius: 0vmax;
+    border-color: lightyellow;
+    text-align: center;
+    overflow: hidden;
+}
+/**{
+    background-image: url("imgs/backback.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}*/
